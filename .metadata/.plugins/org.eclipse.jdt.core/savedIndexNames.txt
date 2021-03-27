@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+/home/romulo/exemplos/curso_java_udemy/.metadata/.plugins/org.eclipse.jdt.core
+2054340909.index
